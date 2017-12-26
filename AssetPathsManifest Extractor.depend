@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1508305760 source:d:\bo\code\c++\assetpathsmanifest extractor\main.cpp
+	"json.hpp"
+	<fstream>
+
+1501838652 d:\bo\code\c++\assetpathsmanifest extractor\header\json.hpp
+	<algorithm>
+	<array>
+	<cassert>
+	<cctype>
+	<ciso646>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdlib>
+	<cstring>
+	<forward_list>
+	<functional>
+	<initializer_list>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<limits>
+	<locale>
+	<map>
+	<memory>
+	<numeric>
+	<sstream>
+	<stdexcept>
+	<string>
+	<type_traits>
+	<utility>
+	<vector>
+
+1501838652 d:\bo\code\c++\assetpathsmanifest extractor\json.hpp
+	<algorithm>
+	<array>
+	<cassert>
+	<cctype>
+	<ciso646>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdlib>
+	<cstring>
+	<forward_list>
+	<functional>
+	<initializer_list>
+	<iomanip>
+	<iostream>
+	<iterator>
+	<limits>
+	<locale>
+	<map>
+	<memory>
+	<numeric>
+	<sstream>
+	<stdexcept>
+	<string>
+	<type_traits>
+	<utility>
+	<vector>
+
+1501856906 source:d:\bo\code\c++\assetpathsmanifest extractor\test.cpp
+	<json.hpp>
+	<bits/stdc++.h>
+
